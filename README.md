@@ -7,6 +7,6 @@ A Simple Computer Vision Project
 * Image Denoising , Gaussian Filter , Sobel Filter
 * Image rotation, Forward and backward Mapping.
 
-# Full Descriptiion 
+# Full Description 
 
-A full DEscription of all the task performed are provided in the Clab1_u6734495.pdf file.
+A full Description of all the task performed are provided in the Clab1_u6734495.pdf file.
